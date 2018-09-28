@@ -1,2 +1,2 @@
 # hello-world
-This is my hellow world repository.
+Just learning to use GitHub.
